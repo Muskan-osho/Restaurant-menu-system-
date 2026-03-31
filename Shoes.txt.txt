@@ -1,0 +1,3 @@
+Loafer Light,Goldstar,200,1000,domestic
+Inigo 732, Caliber,100,2800,domestic
+Lite Racer,Adidas,200,7000,International
